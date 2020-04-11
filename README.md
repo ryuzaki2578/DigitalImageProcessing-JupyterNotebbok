@@ -1,6 +1,5 @@
 # DigitalImageProcessing-JupyterNotebbok
-Implementations includes various operations Of image Processing Using OpenCV Python<br/>
-Implentation Includes<br/>
+Implementations includes the following operations Of image Processing Using OpenCV Python<br/>
 1.Contrast Stretching<br/>
 2.Histogram Plotting<br/>
 3.Zooming by interpolation<br/>
